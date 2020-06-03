@@ -12,9 +12,10 @@ Classification of images using Deep Learning
 - Xception
 
 The project is splitted in 3 notebooks, because I used 3 working environements :
-1/ Local laptop
-2/ Google colab
-3/ AWS Sagemaker
+
+- Local laptop : testing several models on complete data
+- Google colab : testing several models on a data sample
+- AWS Sagemaker : execution of the final model
 
 The notebook Projet6_prediction contains a simple function to read, process and predict a dog breed from a custom image.
 
