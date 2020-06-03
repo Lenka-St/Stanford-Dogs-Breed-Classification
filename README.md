@@ -1,9 +1,8 @@
-# Projet6
-Standford dogs breed classification
+# Standford dogs breed classification
 
-Classification of images using Deep Learning
+Image classification using Deep Learning with Tensorflow and Keras
 
-1/ Creation of a custom algorithm from scratch in Keras
+1/ Creation of a custom algorithm from scratch
 - Data Augmentation
 - Tuning of hyperparameters
 
